@@ -1,7 +1,7 @@
 package escola;
 
 public class Endereco {
-	private String logradouro;
+    private String logradouro;
     private String cep;
     private String cidade;
     private String estado;
