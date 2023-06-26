@@ -11,7 +11,6 @@ public class BarraDeRolagem extends ElementosDeInteração {
         return tamanho;
     }
 
-    @Override
     public void destruir() {
     	
         System.out.println("Barra de rolagem destruída. Tamanho: " + tamanho);
