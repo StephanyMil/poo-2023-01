@@ -2,6 +2,7 @@ package com.github.StephanyMil.poo_2023_01.t08.arquivo;
 
 import java.util.ArrayList;
 import java.util.List;
+
 public class Arquivo {
     private List<Permissao> permissoes;
 
