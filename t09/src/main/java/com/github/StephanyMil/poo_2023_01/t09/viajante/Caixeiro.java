@@ -13,5 +13,4 @@ public class Caixeiro {
     public void adicionarViagem(Viagem viagem) {
         viagens.add(viagem);
     }
-
 }
