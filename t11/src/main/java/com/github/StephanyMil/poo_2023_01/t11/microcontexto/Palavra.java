@@ -8,5 +8,4 @@ public class Palavra {
     public Palavra(List<Letra> letras) {
         this.letras = letras;
     }
-
 }
