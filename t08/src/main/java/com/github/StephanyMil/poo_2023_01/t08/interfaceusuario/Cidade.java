@@ -1,6 +1,4 @@
-package com.github.StephanyMil.poo_2023_01.t08.interfaceusuario;
-
-import com.github.StephanyMil.poo_2023_01.t08.pais.Pais;
+package com.github.StephanyMil.poo_2023_01.t08.pais;
 
 public class Cidade {
     private String nome;
