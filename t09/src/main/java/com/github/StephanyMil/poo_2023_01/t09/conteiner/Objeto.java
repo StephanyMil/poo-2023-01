@@ -7,5 +7,4 @@ public class Objeto extends Elemento {
         super(numeracao);
         this.descricao = descricao;
     }
-
 }
