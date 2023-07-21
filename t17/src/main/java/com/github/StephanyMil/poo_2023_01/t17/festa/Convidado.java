@@ -2,6 +2,7 @@ package com.github.StephanyMil.poo_2023_01.t17.festa;
 
 import java.util.ArrayList;
 import java.util.List;
+
 public class Convidado {
     private String nome;
     private boolean acompanhado;
