@@ -14,5 +14,4 @@ public class Botao extends ElementosDeInteracao{
     public void destruir() {
         System.out.println("Botão destruído: " + texto);
     }
-
 }
