@@ -13,5 +13,4 @@ public class Viagem {
     public void adicionarCidade(Cidade cidade) {
         cidades.add(cidade);
     }
-
 }
