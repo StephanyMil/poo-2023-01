@@ -2,6 +2,7 @@ package com.github.StephanyMil.poo_2023_01.t17.aeroporto;
 
 import java.time.LocalTime;
 import java.time.LocalDate;
+
 public class Operacao {
     private String tipo;
     private LocalDate data;
