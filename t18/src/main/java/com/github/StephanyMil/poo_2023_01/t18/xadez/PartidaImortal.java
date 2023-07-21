@@ -2,6 +2,7 @@ package com.github.StephanyMil.poo_2023_01.t18.xadez;
 
 import java.util.ArrayList;
 import java.util.List;
+
 public class PartidaImortal {
     private List<Lance> lances;
     private Jogador jogador1;
