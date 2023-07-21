@@ -13,5 +13,4 @@ public class ListaPedidos {
     public void adicionarPedido(Pedido pedido) {
         pedidos.add(pedido);
     }
-
 }
