@@ -2,6 +2,7 @@ package com.github.StephanyMil.poo_2023_01.t17.empregado;
 
 import java.util.ArrayList;
 import java.util.List;
+
 public class Funcionario {
     private String nome;
     private Funcionario gerente;
