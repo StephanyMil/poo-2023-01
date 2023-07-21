@@ -2,6 +2,7 @@ package com.github.StephanyMil.poo_2023_01.t17.tarefa;
 
 import java.util.ArrayList;
 import java.util.List;
+
 public class Tarefa {
     private String descricao;
     private List<Pagamento> pagamentos;
