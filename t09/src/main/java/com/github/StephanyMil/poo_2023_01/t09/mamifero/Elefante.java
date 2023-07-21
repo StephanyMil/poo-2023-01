@@ -5,5 +5,4 @@ public class Elefante extends Mamifero {
     public Elefante(String especie, String genero, int idade) {
         super(especie, genero, idade);
     }
-
 }
