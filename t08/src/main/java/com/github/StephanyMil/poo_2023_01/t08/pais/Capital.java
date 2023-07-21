@@ -1,7 +1,5 @@
 package com.github.StephanyMil.poo_2023_01.t08.pais;
 
-import com.github.StephanyMil.poo_2023_01.t08.interfaceusuario.Cidade;
-
 public class Capital {
     private Cidade cidade;
 
