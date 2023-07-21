@@ -2,6 +2,7 @@ package com.github.StephanyMil.poo_2023_01.t17.comite;
 
 import java.util.ArrayList;
 import java.util.List;
+
 public class Comite {
     private String nome;
     private List<Pessoa> membros;
