@@ -12,5 +12,4 @@ public class Funcionario {
     public void definirLanchonete(Lanchonete lanchonete) {
         this.lanchonete = lanchonete;
     }
-
 }
