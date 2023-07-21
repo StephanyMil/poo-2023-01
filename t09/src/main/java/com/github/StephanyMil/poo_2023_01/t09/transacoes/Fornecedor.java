@@ -15,5 +15,4 @@ public class Fornecedor {
     public void adicionarTransacao(Transacao transacao) {
         transacoes.add(transacao);
     }
-
 }
