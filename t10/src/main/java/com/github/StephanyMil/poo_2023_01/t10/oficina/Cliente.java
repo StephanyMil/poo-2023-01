@@ -20,5 +20,4 @@ public class Cliente {
         this.percursos = new ArrayList<>();
         this.consertos = new ArrayList<>();
     }
-
 }
